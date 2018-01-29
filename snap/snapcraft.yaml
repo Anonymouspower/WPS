@@ -1,0 +1,12 @@
+
+  name: megasync
+  MEGASync, free and safe download. MEGASync latest version: MegaSync by Mega. Cloud storage is all the rage
+
+  grade: devel # must be 'stable' to release into candidate/stable channels
+  confinement: devmode # use 'strict' once you have the right plugs and slots
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
